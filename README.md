@@ -12,7 +12,7 @@
     <p>Disfruta de la belleza de nuestras flores:</p>
 
     <!-- Imagen de flores -->
-    <img src="url_de_tu_imagen_de_flores.jpg" alt="Flores hermosas">
+    <img src="url_de_tu_imagen_de_flores.html" alt="Flores hermosas">
 
     <p>Puedes encontrar más variedades de flores en nuestro jardín.</p>
 
